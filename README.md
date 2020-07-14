@@ -1,4 +1,4 @@
-#Statistical functions
+# Statistical functions
 ## General info 
 I made typical statistical tests from scratch in R. 
 My program include tests like:
